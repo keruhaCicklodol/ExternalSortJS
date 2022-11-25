@@ -1,0 +1,34 @@
+{
+  "name": "externalsortjs",
+  "version": "1.0.0",
+  "description": "External sorting algorithm to sort 2TB file of strings on low RAM computers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keruhaCicklodol/ExternalSortJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keruhaCicklodol/ExternalSortJS/issues"
+  },
+  "homepage": "https://github.com/keruhaCicklodol/ExternalSortJS#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.44.0",
+    "eslint": "^8.28.0",
+    "eslint-config-standard-with-typescript": "^23.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.5.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0",
+    "stream": "^0.0.2"
+  }
+}
